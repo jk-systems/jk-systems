@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jk-systems Joseph Mwadime
-- 👀 I’m interested in System development and implementation, cloud bussiness solutions
+- 💞️ Great love for Linux
+- 👀 I’m interested in System development, administration and implementation, cloud bussiness solutions
 - 🌱 I’m currently learning ... GA and mollecular programming
-- 💞️ I’m looking to collaborate on data projects
+- 💞️ I’m looking to collaborate on data, AI, Web, Mobile, IoT, & Sec. projects
 - 📫 How to reach me jkmwadime@gmail.com or Whatsapp me @ +254790172288
 
 <!---
