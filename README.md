@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jk-systems Joseph Mwadime.
+- 👋 Hello World, I’m @jk-systems Joseph Mwadime.
 - 💞️ Great GNU/Linux Lover.
 - 👀 I’m interested in System development [Mobile & Web UI/UX, Backend, Intergrations], administration and implementation, cloud bussiness solutions.
 - 🌱 I’m currently learning ... Genetic Algorithims && Reenforcement learning aglorithims.
